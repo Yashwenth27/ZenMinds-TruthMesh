@@ -21,3 +21,18 @@ To get started with TruthMesh, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Yashwenth27/ZenMinds-TruthMesh.git
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the application
+   ```bash
+   streamlit run app.py
+
+## Contributing
+
+We welcome contributions from the community to enhance and improve TruthMesh. If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
+
+
+   
