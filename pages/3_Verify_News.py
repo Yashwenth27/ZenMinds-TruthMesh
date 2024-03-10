@@ -200,7 +200,7 @@ API_URL4 = "https://api-inference.huggingface.co/models/littlepinhorse/4_dataset
 API_URL5 = "https://api-inference.huggingface.co/models/ghanashyamvtatti/roberta-fake-news" #roberta-fake-news
 
 
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer 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"}
 
 
 def generate_user_id(length=7):
