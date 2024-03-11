@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 import re
 import time
-from bs4 import BeautifulSoup
 from readability.readability import Document
 import webbrowser
 st.set_page_config(
