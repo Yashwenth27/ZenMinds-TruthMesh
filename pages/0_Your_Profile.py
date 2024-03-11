@@ -2,7 +2,6 @@ import streamlit as st
 import firebase_admin
 from firebase_admin import db
 from firebase_admin import credentials, storage
-from PIL import Image
 import io
 st.set_page_config(layout="wide")
 with open("cred.txt","r") as file:
